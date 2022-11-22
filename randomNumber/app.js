@@ -17,3 +17,5 @@ function guessTheNumber() {
   }
 }
 guessTheNumber();
+
+// time 15mins
